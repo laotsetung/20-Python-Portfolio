@@ -1,4 +1,8 @@
-#Ofertas do dia do mercado livre
+<h1>Ofertas do dia do mercado livre</h1>
+
+<p> Antes de utilizar instalar as dependencias, para isso executar: </p>
+<h3 style="color: #993333;">pip install -r requirements.txt</h3>
+<hr>
 
 <ul>
   <li>Carrega a página de ofertas do Mercado Livre usando a lib request.</li>
